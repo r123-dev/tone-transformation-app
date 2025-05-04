@@ -1,0 +1,31 @@
+.app {
+    font-family: sans-serif;
+    padding: 2rem;
+  }
+  
+  .editor {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .text-editor {
+    width: 60%;
+    height: 200px;
+    padding: 1rem;
+    font-size: 1rem;
+  }
+  
+  .slider-wrapper {
+    width: 35%;
+    padding: 1rem;
+  }
+  
+  .controls button {
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+  }
+  
+  .loader {
+    margin-top: 1rem;
+    color: blue;
+  }
